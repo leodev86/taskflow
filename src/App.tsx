@@ -3,7 +3,7 @@ import MainLayout from "./layouts/MainLayout";
 import Dashboard from "./pages/Dashboard";
 import About from "./pages/About";
 import Settings from "./pages/Settings";
-import Calendar from "./pages/Calendar";
+import Calendar from "./pages/calendar/Calendar";
 import Notes from "./pages/Notes";
 import Favorites from "./pages/Favorites";
 import Reminders from "./pages/Reminders";
