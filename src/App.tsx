@@ -9,7 +9,6 @@ import Favorites from "./pages/Favorites";
 import Reminders from "./pages/Reminders";
 import Trash from "./pages/Trash";
 import Statistics from "./pages/Statistics";
-import Tasks from "./pages/Tasks";
 
 export default function App() {
   return (
